@@ -1,2 +1,2 @@
 # javascript-typescript
-Curso Daniel Tapia Morales - Javascript Typescript
+Repositório do Curso Javascript Typescript - "Daniel Tapia Morales"
